@@ -1,0 +1,6 @@
+# Ctrl + N
+"\C-n":history-search-forward
+
+# Ctrl + P
+"\C-p":history-search-backward
+
